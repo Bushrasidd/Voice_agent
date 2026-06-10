@@ -5,7 +5,6 @@ import { useState } from "react";
 import Navbar from "@/components/Navbar";
 import TranscriptPanel from "@/components/TranscriptPanel";
 import VoiceVisualizer from "@/components/VoiceVisualizer";
-// import ActivityPanel from "@/components/ActivityPanel";
 
 export default function Home() {
   const [messages, setMessages] = useState([]);

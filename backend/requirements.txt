@@ -2,4 +2,10 @@ fastapi
 uvicorn[standard]
 requests
 python-multipart
-faster-whisper
+
+
+# fastapi
+# uvicorn[standard]
+# requests
+# python-multipart
+# faster-whisper
