@@ -1,11 +1,11 @@
 fastapi
 uvicorn[standard]
-requests
+sqlalchemy
+alembic
+psycopg2-binary
+pydantic
+pydantic-settings
+python-dotenv
+sqladmin
+openai
 python-multipart
-
-
-# fastapi
-# uvicorn[standard]
-# requests
-# python-multipart
-# faster-whisper

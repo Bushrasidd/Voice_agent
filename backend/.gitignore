@@ -15,7 +15,7 @@ Frontend/out/
 
 # testing
 /coverage
-
+/venv
 backend/venv/
 .env
 # next.js
